@@ -1,6 +1,6 @@
 {
-  "lastAttemptAt": "2026-10-04T06:03:42.382385+00:00",
-  "lastSuccessAt": "2026-10-04T06:03:42.382385+00:00",
+  "lastAttemptAt": "2026-10-04T09:16:00.959605+00:00",
+  "lastSuccessAt": "2026-10-04T09:16:00.959605+00:00",
   "successfulSources": 3,
   "sourceCount": 3,
   "sources": [
@@ -23,10 +23,10 @@
       "title": "خبرگزاری کتاب ایران (ایبنا)",
       "ok": true,
       "itemCount": 5,
-      "latestPublishedAt": "2026-10-04T05:51:40+00:00"
+      "latestPublishedAt": "2026-10-04T09:10:20+00:00"
     }
   ],
-  "itemCount": 58,
+  "itemCount": 63,
   "schedule": "every 6 hours",
   "summarization": "attributed-feed-excerpts"
 }
