@@ -1,7 +1,7 @@
 {
-  "lastAttemptAt": "2026-10-21T21:50:36.750013+00:00",
-  "lastSuccessAt": "2026-10-21T21:50:36.750013+00:00",
-  "successfulSources": 2,
+  "lastAttemptAt": "2026-10-22T05:04:33.356245+00:00",
+  "lastSuccessAt": "2026-10-22T05:04:33.356245+00:00",
+  "successfulSources": 3,
   "sourceCount": 3,
   "sources": [
     {
@@ -21,8 +21,9 @@
     {
       "sourceId": "ibna",
       "title": "خبرگزاری کتاب ایران (ایبنا)",
-      "ok": false,
-      "error": "URLError"
+      "ok": true,
+      "itemCount": 5,
+      "latestPublishedAt": "2026-10-22T04:58:22+00:00"
     }
   ],
   "itemCount": 80,
