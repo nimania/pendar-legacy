@@ -1,7 +1,7 @@
 {
-  "lastAttemptAt": "2026-10-23T21:31:50.001190+00:00",
-  "lastSuccessAt": "2026-10-23T21:31:50.001190+00:00",
-  "successfulSources": 3,
+  "lastAttemptAt": "2026-10-24T04:48:57.466073+00:00",
+  "lastSuccessAt": "2026-10-24T04:48:57.466073+00:00",
+  "successfulSources": 2,
   "sourceCount": 3,
   "sources": [
     {
@@ -14,9 +14,8 @@
     {
       "sourceId": "ihf",
       "title": "بنیاد میراث ایران",
-      "ok": true,
-      "itemCount": 3,
-      "latestPublishedAt": "2026-07-09T13:20:13+00:00"
+      "ok": false,
+      "error": "ParseError"
     },
     {
       "sourceId": "ibna",
