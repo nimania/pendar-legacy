@@ -1,7 +1,7 @@
 {
-  "lastAttemptAt": "2026-10-31T05:58:12.688977+00:00",
-  "lastSuccessAt": "2026-10-31T05:58:12.688977+00:00",
-  "successfulSources": 3,
+  "lastAttemptAt": "2026-10-31T12:50:05.018379+00:00",
+  "lastSuccessAt": "2026-10-31T12:50:05.018379+00:00",
+  "successfulSources": 2,
   "sourceCount": 3,
   "sources": [
     {
@@ -14,16 +14,15 @@
     {
       "sourceId": "ihf",
       "title": "بنیاد میراث ایران",
-      "ok": true,
-      "itemCount": 3,
-      "latestPublishedAt": "2026-07-09T13:20:13+00:00"
+      "ok": false,
+      "error": "ParseError"
     },
     {
       "sourceId": "ibna",
       "title": "خبرگزاری کتاب ایران (ایبنا)",
       "ok": true,
       "itemCount": 5,
-      "latestPublishedAt": "2026-10-31T05:55:51+00:00"
+      "latestPublishedAt": "2026-10-31T12:42:17+00:00"
     }
   ],
   "itemCount": 80,
