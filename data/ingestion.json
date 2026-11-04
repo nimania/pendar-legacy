@@ -1,14 +1,15 @@
 {
-  "lastAttemptAt": "2026-11-03T19:39:14.518092+00:00",
-  "lastSuccessAt": "2026-11-03T19:39:14.518092+00:00",
-  "successfulSources": 2,
+  "lastAttemptAt": "2026-11-04T06:43:47.513876+00:00",
+  "lastSuccessAt": "2026-11-04T06:43:47.513876+00:00",
+  "successfulSources": 3,
   "sourceCount": 3,
   "sources": [
     {
       "sourceId": "bukhara",
       "title": "بخارا",
-      "ok": false,
-      "error": "URLError"
+      "ok": true,
+      "itemCount": 5,
+      "latestPublishedAt": "2026-08-18T16:20:53+00:00"
     },
     {
       "sourceId": "ihf",
@@ -22,7 +23,7 @@
       "title": "خبرگزاری کتاب ایران (ایبنا)",
       "ok": true,
       "itemCount": 5,
-      "latestPublishedAt": "2026-11-03T17:34:20+00:00"
+      "latestPublishedAt": "2026-11-04T06:43:02+00:00"
     }
   ],
   "itemCount": 80,
