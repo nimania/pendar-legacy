@@ -1,15 +1,14 @@
 {
-  "lastAttemptAt": "2026-11-14T18:19:10.993100+00:00",
-  "lastSuccessAt": "2026-11-14T18:19:10.993100+00:00",
-  "successfulSources": 3,
+  "lastAttemptAt": "2026-11-14T22:37:01.620312+00:00",
+  "lastSuccessAt": "2026-11-14T22:37:01.620312+00:00",
+  "successfulSources": 2,
   "sourceCount": 3,
   "sources": [
     {
       "sourceId": "bukhara",
       "title": "بخارا",
-      "ok": true,
-      "itemCount": 5,
-      "latestPublishedAt": "2026-11-09T19:38:03+00:00"
+      "ok": false,
+      "error": "ParseError"
     },
     {
       "sourceId": "ihf",
